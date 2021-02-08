@@ -1,0 +1,22 @@
+{
+  "name": "docker-curl",
+  "version": null,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikhailGA/docker-curl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikhailGA/docker-curl/issues"
+  },
+  "homepage": "https://github.com/MikhailGA/docker-curl#readme",
+  "devDependencies": {
+    "standard-version": "7.1.0"
+  }
+}
